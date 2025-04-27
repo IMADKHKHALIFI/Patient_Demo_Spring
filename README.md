@@ -87,4 +87,7 @@ src/main/java
 ```
 ## 🎯 Summary
 This project covers building a complete Spring Boot CRUD application, migrating from H2 to MySQL, following best backend development practices.
+## 👨‍💻 Author
+Name: Imad El khelyfy
 
+Email: imadelkhelyfy@gmail.com
